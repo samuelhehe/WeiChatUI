@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">samuel_weichat6.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_action_search">查找</string>
+    <string name="action_menu_group_chat">发起群聊</string>
+    <string name="action_menu_add_friend">添加朋友</string>
+    <string name="action_menu_scan">扫一扫</string>
+    <string name="action_menu_feedback">帮助与反馈</string>
+    <string name="string_weichat">微信</string>
+    <string name="string_friends">朋友圈</string>
+    <string name="string_found">发现</string>
+    <string name="string_me">我</string>
+
+</resources>
